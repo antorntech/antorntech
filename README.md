@@ -1,5 +1,5 @@
-# Hi I'm AM ANTOR
-# Passionate Full Stack Web Developer
+# Hi I'm ♛ AM ANTOR ♛
+# ✤✤✤Passionate Full Stack Web Developer✤✤✤
 # 💫 About Me:
 🛠️ Working on: Exploring web development projects, stay tuned for code snippets! 💻🚀<br><br>🤝 Open to collaboration on: Web development, UI/UX design, or any tech-related projects. Let's team up! 🤓👥<br><br>🆘 Seeking help with: Fine-tuning skills in React. Any guidance or tips are appreciated! 🙏🔍<br><br>📚 Currently learning: Diving deep into React Next JS. Learning is a journey! 🌐📖<br><br>💬 Ask me about: Web development, coding challenges, or the latest tech trends. Let's have a tech chat! 🗣️💡<br><br>🎉 Fun fact: When not coding, find me strumming the guitar or exploring scenic landscapes. Balancing work and play is key to a harmonious life! 🎸🏞️
 
