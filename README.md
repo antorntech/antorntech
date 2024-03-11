@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **optimizing the performance of a large-scale e-commerce website and implementing advanced security measures.**
 
-- 👨‍💻 All of my projects are available at [https://antors.netlify.app/](https://antors.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://antor-dev.netlify.app/](https://antor-dev.netlify.app/)
 
 - 📝 I regularly write articles on [emerging trends in technology and their impact on various industries.](emerging trends in technology and their impact on various industries.)
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **am.antor11@gmail.com/creativefreelancerantor@gmail.com**
 
-- 📄 Know about my experiences [https://antors.netlify.app/](https://antors.netlify.app/)
+- 📄 Know about my experiences [https://antor-dev.netlify.app/](https://antor-dev.netlify.app/)
 
 - ⚡ Fun fact **Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible.**
 
